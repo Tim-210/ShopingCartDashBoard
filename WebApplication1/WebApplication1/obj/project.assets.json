@@ -7108,11 +7108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aPrograning程式設計\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\aPrograning程式設計\\Github\\ShopingCartDashBoard\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\aPrograning程式設計\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\aPrograning程式設計\\Github\\ShopingCartDashBoard\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\aPrograning程式設計\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\aPrograning程式設計\\Github\\ShopingCartDashBoard\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

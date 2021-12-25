@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YAQUEgd9MsKdvwE8QG0Sn/8h8+48nIC1s4kBjExmWEu7WtD2eKjs51M1fEeg2sbV8IeW4PwgPzUtdupeUsqf1g==",
+  "dgSpecHash": "YvZLv/810U+DyPprH3AdBNSXzvS5isg7ny9F1cKO565kPyioxoDuCQdzQAg9owYWlDWtNHB/403QEySGt1TS3A==",
   "success": true,
-  "projectFilePath": "C:\\aPrograning程式設計\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\aPrograning程式設計\\Github\\ShopingCartDashBoard\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

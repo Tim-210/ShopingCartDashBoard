@@ -16,11 +16,6 @@ namespace WebApplication1.Controllers
         {
             _shoppingcartContext = shoppingcartContext;
         }
-
-        public IActionResult Index()
-        {
-            return View();
-        }
         public IActionResult abc()
         {
             List<Category> l_data = _shoppingcartContext.Categories.ToList();

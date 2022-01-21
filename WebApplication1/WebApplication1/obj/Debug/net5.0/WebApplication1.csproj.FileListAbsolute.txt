@@ -295,3 +295,6 @@ C:\aPrograning程式設計\Github\ShopingCartDashBoard\WebApplication1\WebApplic
 C:\aPrograning程式設計\Github\ShopingCartDashBoard\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
 C:\aPrograning程式設計\Github\ShopingCartDashBoard\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
 C:\aPrograning程式設計\Github\ShopingCartDashBoard\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\aPrograning程式設計\Github\ShopingCartDashBoard\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\UploadDemo\Index.cshtml.g.cs
+C:\aPrograning程式設計\Github\ShopingCartDashBoard\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\aPrograning程式設計\Github\ShopingCartDashBoard\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
